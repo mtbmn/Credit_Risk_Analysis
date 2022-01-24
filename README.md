@@ -1,4 +1,4 @@
-# Credit Risk Analysis: testing different resampling techniques to improve the accuracy of a logistic machine learning algorithm
+# Credit Risk Analysis: Analyzing resampling techniques to buld a machine learning model
 
 ## Overview
 Fast Lending wants to use machine learning to predict which clients are likely to pay back their loans and which are likely to default.  The data set has a small number of bad debts. Most people have been able to pay the funds back. To analyze the data and develop a machine learning model I tested various resampling methods to assess their accuracy. Two ensemble models would also be tested against the data.  With the results obatained we should be able to determine which models if any can be used to predict credit risk from the dataset.
